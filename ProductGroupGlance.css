@@ -1,0 +1,25 @@
+.abc{
+    background-color:#219F94;
+    margin-top: 20px;
+}
+
+
+input{
+    width: max-content;
+}
+
+.inputbox{
+    width:100%;
+    padding: 15px 20px;
+    margin: 8px 0;
+    box-sizing: border-box
+}
+
+.inputdiv{
+    padding: 20px 15px 10px ;
+    display: inline-block;
+}
+
+h3{
+    color: white;
+}
